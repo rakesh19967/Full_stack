@@ -2,4 +2,5 @@ Full Stack development
 Javascript
 jQuery
 Node.js
-
+Bootstrap
+angular
